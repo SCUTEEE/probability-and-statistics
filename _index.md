@@ -1,6 +1,6 @@
 ---
 title: 概率论与数理统计
-type: series
+series: true
 cascade:
   math: true
   authors:
